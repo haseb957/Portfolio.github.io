@@ -135,6 +135,8 @@ section.Services{
     background: var(--light);
     clip-path: polygon(0 0, 100% 0, 100% 100%, 70% 87%, 0 100%);
     background-image: url(../images/tuka.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
 }
 section.Services .card-wrapper .card{
     background: var(--pure);
